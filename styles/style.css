@@ -1,0 +1,98 @@
+body{
+  margin:55;
+  font-size: 14px;
+  font-family: 'nova flat',sans-serif;
+  background-image: url(../images/background.jpg);
+  background-position: no-repeat;
+}
+
+.container{
+  width: 960px;
+  font-family: 'stencil Std, fantasy';
+  margin: 0 auto;
+}
+
+h1, h2, h3, h4, h5, h6{
+  font-family: 'apple chancery',sans-serif;
+}
+
+#header{
+  font-size: 20px;
+  padding: 30px 20px;
+}
+
+.clearBoth{
+  clear:both;
+}
+
+.logo{
+  width: 260px;
+  float:right;
+}
+
+.logochiffre{
+  width: 150px;
+  float: left;
+}
+
+.titredusite{
+  text-align: center;
+  color: white;
+  font-size: 30px;
+}
+
+.article1{
+  width: 615px;
+  padding: 10px;
+  float: left;
+  margin: 10px 5px 10px 0px;
+  border: 6px solid black;
+  border-radius: 3px;
+  background-color: grey;
+  margin-top: 100px;
+}
+
+p{
+  text-shadow: center;
+}
+
+.photoshop{
+  width: 200px;
+  float: left;
+}
+
+.emmastone{
+  width: 200px;
+  float: left;
+}
+
+.photographepng{
+  width: 200px;
+  float: left;
+}
+
+.article2{
+  width: 275px;
+  padding: 10px;
+  float: right;
+  margin: 10px 0px 10px 10px;
+  border: 6px solid black;
+  border-radius: 3px;
+  background-color: grey;
+}
+
+.photographeparfaite{
+  width: 100px;
+  float: right;
+}
+
+.instagram{
+  width: 160px;
+  float: right;
+}
+
+.footer{
+  color: white;
+  font-size: 14px;
+  text-align: center;
+}
